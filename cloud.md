@@ -1,5 +1,5 @@
-# Hi my name is Owuraku
+# change cloud.md repo
 
-i'm an aspiring to be a cloud architect.
+Welcome to my cloud demo 
 
 
